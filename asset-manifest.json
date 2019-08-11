@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-form-app/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-form-app/static/js/main.bfe92807.chunk.js",
+    "main.js.map": "/react-form-app/static/js/main.bfe92807.chunk.js.map",
+    "runtime~main.js": "/react-form-app/static/js/runtime~main.0acba3e9.js",
+    "runtime~main.js.map": "/react-form-app/static/js/runtime~main.0acba3e9.js.map",
+    "static/js/2.20464c8a.chunk.js": "/react-form-app/static/js/2.20464c8a.chunk.js",
+    "static/js/2.20464c8a.chunk.js.map": "/react-form-app/static/js/2.20464c8a.chunk.js.map",
+    "index.html": "/react-form-app/index.html",
+    "precache-manifest.8135130b8ca12e7b264e86c413332d50.js": "/react-form-app/precache-manifest.8135130b8ca12e7b264e86c413332d50.js",
+    "service-worker.js": "/react-form-app/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react-form-app/static/css/main.2cce8147.chunk.css.map"
+  }
+}
